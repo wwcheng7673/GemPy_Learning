@@ -29,7 +29,7 @@ import matplotlib.image as mpimg
 
 ### 3.模型范围计算
 `boreholes_concept.png`图像如下
-![截图](.f/photo/boreholes_concept.png){width=500px}
+![截图](./photo/boreholes_concept.png){width=500px}
 
 ```python
 img = mpimg.imread('boreholes_concept.png')
